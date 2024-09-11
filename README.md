@@ -1,54 +1,30 @@
+# To-Do List Uygulaması
 
+Basit ve kullanıcı dostu bir to-do list uygulaması. Bu uygulama, yapılacak işleri organize etmenizi, eklemenizi, silmenizi ve güncellemenizi sağlar. Flutter ile geliştirilmiş olup, Android ve iOS cihazlarda çalıştırılabilir.
 
-![Logo](https://live.staticflickr.com/2890/11026225464_721d2d4d69_b.jpg) 
+# Özellikler
 
-## 🚀 What Is TODO
-TODO App is a task management application with a modern and unique design. It is easy to use and was built using FLUTTER. It is based on a local SQFlite database.
+Görev ekleme, düzenleme ve silme
 
-![Logo](https://github.com/najm-flutter/Todo-flutter/blob/main/assets/Screenshot%202024-05-01%20195214.png?raw=true) 
+Görevleri tamamlandı olarak işaretleme
 
+Temiz ve modern kullanıcı arayüzü
 
+Görevlerin tamamlanma durumu ile listeyi filtreleme
 
+Yerel veri depolama (SQLite / SharedPreferences)
 
-## dependencies
-```
-  flutter_bloc: ^8.1.5
-  equatable: ^2.0.5
-  dartz: ^0.10.1
-  sqflite: ^2.3.2
-  path: ^1.8.3
-  bloc: ^8.1.4
-  page_transition: ^2.1.0
-  get_it: ^7.6.7
-  jiffy: ^6.3.0
-  gradient_icon: ^2.0.9
-  uicons: ^1.0.1
-  flutter_launcher_icons: ^0.13.1 
- ```
+# Ekran Görüntüleri
 
+![to6](https://github.com/user-attachments/assets/60b4e7d3-026f-4883-b588-e03a1fd12f89)
 
-## Technologies Used
+![to2](https://github.com/user-attachments/assets/475b2d5a-0d90-43ab-a626-4d84083d7587)
 
- - Clean Architecture
- - Bloc <state management>
- - SQFlite (Local DB)
+![to4](https://github.com/user-attachments/assets/19edfd7a-ddd1-40d7-aae3-860dc0be7fa8)
 
+![to1](https://github.com/user-attachments/assets/27991ec1-561f-4c82-924d-6d3a760871ea)
 
+![to5](https://github.com/user-attachments/assets/98c9cf4f-9262-4f24-9c16-ce3b55143c7f)
 
-## More Info
-The application is currently being tested on Android.
+![to3](https://github.com/user-attachments/assets/2f450a03-2812-4424-a569-38e5ab26a07f)
 
-
-```
-Flutter SDK 
- sdk: '>=3.2.3 <4.0.0'
-
- kotlin version = 1.9.0
-
- gradle = 8.3.0 
-```
-
-
-## Build By
-
-[Najm Al-Den](https://github.com/najm-flutter)
